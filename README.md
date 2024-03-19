@@ -35,15 +35,11 @@ Con estos pasos, deberías poder abrir y ejecutar el proyecto en tu entorno loca
 
 Para ejecutar y jugar el juego:
 
-1. Abre una terminal y navega hasta el directorio donde se encuentra el proyecto.
+1. Abre el entorno de Jupyter Notebook y navega hasta el directorio donde se encuentra el proyecto.
 
-2. Ejecuta el archivo principal del proyecto, por ejemplo, `main.py`, utilizando Python:
+2. Ejecuta la celda donde esta el propyecto
 
-    ```bash
-    python main.py
-    ```
-
-3. Esto iniciará el juego y mostrará el menú principal. Utiliza las teclas de flecha izquierda y derecha para mover el jugador y esquiva los enemigos que caen desde arriba.
+3. Esto iniciará el juego y mostrará el menú principal, en el que podras navegar usando el teclado. Utiliza las teclas de flecha izquierda y derecha para mover el jugador y esquiva los enemigos que caen desde arriba.
 
 4. Elige la dificultad del juego desde el menú de opciones para ajustar la velocidad de juego.
 
